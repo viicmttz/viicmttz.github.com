@@ -36,7 +36,7 @@ p{
   width: 100%;
   }
 
-  .table th .table td{
+  .table td .table th{
     padding: 1em;
-    text-align: left;
+    text-align: right;
   }
