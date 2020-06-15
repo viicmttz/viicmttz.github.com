@@ -29,13 +29,14 @@ justify-content: center;
 }
 
 p{
-  color:black;}
+  color:black;
+}
 
 .table{
   width: 100%;
   }
 
-  .table td .table th{
+  .table th .table td{
     padding: 1em;
     text-align: left;
   }
