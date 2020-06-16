@@ -13,7 +13,7 @@ celdas.forEach(function(td) {
   td.addEventListener('click', function(){
     console.log(this);
   })
-});*/
+});
 
 //obtener los elementos de la clase .close
 let links = document.querySelectorAll(".close");
@@ -32,3 +32,4 @@ let iconos = document.querySelectorAll("i");
 iconos.forEach(function(icono){
   icono.classList.remove("fa-star");
 });
+*/
